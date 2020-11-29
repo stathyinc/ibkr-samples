@@ -1,0 +1,6 @@
+.scratch
+log
+__pycache__
+.DS_Store
+*.csv
+ibapi
